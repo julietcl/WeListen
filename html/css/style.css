@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Open+Sans');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font: inherit;
+    color: black;
+    margin: 0 20px;
+}
