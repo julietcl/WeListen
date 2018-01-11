@@ -3,6 +3,7 @@
 *.pyc
 .DS_Store
 __pycache__/
+var/
 env/
 html5up-alpha/
 html5up-alpha.zip
